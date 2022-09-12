@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-09-12 02:29:16
-! Total: 90149
+! Updated: 2022-09-13 02:31:45
+! Total: 90174
 
 
 ||0-000.store^
@@ -489,6 +489,7 @@
 ||2819.linux2.testsider.dk^
 ||2886115.com^
 ||288family.club^
+||28n7.icu^
 ||28wangmeng.com^
 ||29299892.com^
 ||294e463a18.com^
@@ -997,6 +998,7 @@
 ||5nt1gx7o57.com^
 ||5odjin7ipi.com^
 ||5ovrmmmoubi71efvatfd.com^
+||5pi13h3q.de^
 ||5qg9ibt1a6.com^
 ||5rocks.io^
 ||5shbet.com^
@@ -1143,6 +1145,7 @@
 ||666797.xyz^
 ||666822.xyz^
 ||666823.xyz^
+||666824.xyz^
 ||666video.asia^
 ||668kbet.com^
 ||66cn.com^
@@ -4466,6 +4469,7 @@
 ||adsmarket.com^
 ||adsmart.co.uk^
 ||adsmart.com^
+||adsmart.hk^
 ||adsmart.net^
 ||adsmeda.com^
 ||adsmediabox.com^
@@ -5391,6 +5395,7 @@
 ||ahojer.com^
 ||ahp1.site^
 ||ahp10.site^
+||ahp11.site^
 ||ahp2.site^
 ||ahp28.site^
 ||ahp29.site^
@@ -9301,6 +9306,7 @@
 ||bmfeed.ru^
 ||bmgiventures.com^
 ||bmhciohwvwgsi.com^
+||bmjs.xzw.com^
 ||bmkz57b79pxk.com^
 ||bmlmedia.com^
 ||bmmetrix.com^
@@ -12994,6 +13000,7 @@
 ||cpng.lol^
 ||cppgf.com^
 ||cppoc.com^
+||cppwd2ahf.xyz^
 ||cpro.bdrmb.cn^
 ||cpro.xixiliya.cn^
 ||cptrack.de^
@@ -13549,6 +13556,7 @@
 ||d0p21g2fep.com^
 ||d0wnloads.ru^
 ||d1.1ppt.com^
+||d1.gocye.com^
 ||d10g3hyu3zeg91.cloudfront.net^
 ||d10gj7yjsfriaj.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
@@ -14431,6 +14439,7 @@
 ||dcai7bdiz5toz.cloudfront.net^
 ||dcbnameapneas.com^
 ||dcbpm.suning.cn^
+||dccc.cloud^
 ||dce0k0.cn^
 ||dcesxdvixnrwlu.com^
 ||dcfh7vk.cn^
@@ -19140,6 +19149,7 @@
 ||fythavoshu.com^
 ||fyvvm.com^
 ||fyyqq.top^
+||fz2c.top^
 ||fzbymy.com^
 ||fzdeng.com^
 ||fzhxi.com^
@@ -22486,6 +22496,7 @@
 ||id.5.p2l.info^
 ||id.kbmg.cz^
 ||id.sputniknews.com^
+||id08.top^
 ||id1.cn^
 ||id3103.com^
 ||id5a.top^
@@ -23704,6 +23715,7 @@
 ||iwxzizcw.com^
 ||iwyphlxfuufeos.com^
 ||iwyuaqs.cn^
+||ixbccrp.cn^
 ||ixcbqp.com^
 ||ixcgvh.cn^
 ||ixcris.com^
@@ -24110,6 +24122,7 @@
 ||jiujigroup.top^
 ||jiujiinc.top^
 ||jiujiupk.com^
+||jiuku.pw^
 ||jiulela.ltd^
 ||jiulingdl.cn^
 ||jiusty.com^
@@ -25971,6 +25984,7 @@
 ||leavehomego.com^
 ||leavilysover.site^
 ||lebilui.ru^
+||lebkrli.cn^
 ||leboncoan.fr^
 ||lebopncoin.fr^
 ||lecilk.com^
@@ -26100,6 +26114,7 @@
 ||les-experts.com^
 ||les-oncheres.fr^
 ||les-toiles-cinema.fr^
+||les7andla4.cfd^
 ||lesecchos.fr^
 ||lesechoss.fr^
 ||leserservice-tracking.de^
@@ -29872,6 +29887,7 @@
 ||myzuphaby.pro^
 ||mzcd.xyz^
 ||mzcsuuuwox.com^
+||mzhw.xyz^
 ||mzlscqarnm.com^
 ||mzokqm.cn^
 ||mzol7lbm.com^
@@ -30261,6 +30277,7 @@
 ||netavenir.com^
 ||netbiscuits.net^
 ||netbulvar.eu^
+||netcentric.biz^
 ||netclickstats.com^
 ||netcommunities.com^
 ||netcore.co.in^
@@ -31636,6 +31653,7 @@
 ||ojwejqeqvxn.xyz^
 ||ok-app.online^
 ||ok-ddjsyuming.com^
+||ok-qqzzjsyuming.com^
 ||ok.5.p2l.info^
 ||ok9ydq.ru^
 ||okanjo.com^
@@ -32402,6 +32420,7 @@
 ||ownpage.fr^
 ||owogldk.top^
 ||owohvnpbno.com^
+||owoxauky.com^
 ||owsvolksk.space^
 ||owtracking.us-east-1.elasticbeanstalk.com^
 ||owwhftwhukqgo.com^
@@ -33845,6 +33864,7 @@
 ||pocrd.cc^
 ||pocrowpush.com^
 ||pod.xpress.com^
+||podcorn.com^
 ||podfdch.com^
 ||podhopfit.site^
 ||podosupsurge.com^
@@ -35380,6 +35400,7 @@
 ||qeyps.com^
 ||qfcdgy.cn^
 ||qfdn3gyfbs.com^
+||qfdyxinaocn.com^
 ||qffvrenbek.com^
 ||qfgall.cn^
 ||qfhzki.com^
@@ -35739,6 +35760,7 @@
 ||qvylkvlpjwz.com^
 ||qw2v.changshuohr.net^
 ||qwa3ldhn9u0t.com^
+||qwadakesy.cyou^
 ||qwe.qrrgv.space^
 ||qweewq2021.online^
 ||qweewq2021.site^
@@ -41984,6 +42006,7 @@
 ||tenuate.1.p2l.info^
 ||teoopx.cn^
 ||teosredic.com^
+||teoviyf.cn^
 ||teqcdnk.cn^
 ||terabytemedia.com^
 ||teracent.net^
@@ -42403,6 +42426,7 @@
 ||tianhenggo.xyz^
 ||tianhong.mobi^
 ||tianii.top^
+||tianlans.xyz^
 ||tianlule.cn^
 ||tianmenshan.top^
 ||tianning.xyz^
@@ -48232,6 +48256,7 @@
 ||wyfxgvxxi.xyz^
 ||wyhwcgvchpmdf.com^
 ||wyimgydwxcy.com^
+||wykw.fun^
 ||wyliswbimeotllt.xyz^
 ||wylqafraq7.com^
 ||wymcloud.love^

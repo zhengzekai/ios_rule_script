@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-12 02:29:15
+# UPDATED: 2022-09-13 02:31:44
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14151
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 75998
+# DOMAIN-SUFFIX: 76023
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 90768
+# TOTAL: 90793
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -15015,6 +15015,7 @@ zzxosget.com
 .288family.club
 .28acglz.com
 .28mcw1.cn
+.28n7.icu
 .28wangmeng.com
 .29299892.com
 .293870.com
@@ -15805,6 +15806,7 @@ zzxosget.com
 .5ovrmmmoubi71efvatfd.com
 .5p0utbv2mjq1.www.earthclassmail.com
 .5pb266.com
+.5pi13h3q.de
 .5pub.com
 .5q80n.cn
 .5qg9ibt1a6.com
@@ -15994,6 +15996,7 @@ zzxosget.com
 .666797.xyz
 .666822.xyz
 .666823.xyz
+.666824.xyz
 .6669667.com
 .666video.asia
 .668kbet.com
@@ -21292,6 +21295,7 @@ zzxosget.com
 .adsmarket.com
 .adsmart.co.uk
 .adsmart.com
+.adsmart.hk
 .adsmart.net
 .adsmeda.com
 .adsmediabox.com
@@ -22412,6 +22416,7 @@ zzxosget.com
 .ahojer.com
 .ahp1.site
 .ahp10.site
+.ahp11.site
 .ahp2.site
 .ahp28.site
 .ahp29.site
@@ -27943,6 +27948,7 @@ zzxosget.com
 .bmgan.com
 .bmgiventures.com
 .bmhciohwvwgsi.com
+.bmjs.xzw.com
 .bmkz57b79pxk.com
 .bmlmedia.com
 .bmmetrix.com
@@ -33219,6 +33225,7 @@ zzxosget.com
 .cpng.lol
 .cppgf.com
 .cppoc.com
+.cppwd2ahf.xyz
 .cpr.comptoirdescotonniers.com
 .cpro.9xu.com
 .cpro.baidu.cn
@@ -34051,6 +34058,7 @@ zzxosget.com
 .d1.1ppt.com
 .d1.3158.cn
 .d1.5h.com
+.d1.gocye.com
 .d1.handdiy.com
 .d1.showself.com
 .d1.sina.com.cn
@@ -35206,6 +35214,7 @@ zzxosget.com
 .dcapps.disney.go.com
 .dcbnameapneas.com
 .dcbpm.suning.cn
+.dccc.cloud
 .dccfog.petco.com
 .dcclaa.bunte.de
 .dcclaa.daskochrezept.de
@@ -42170,6 +42179,7 @@ zzxosget.com
 .fyyqq.top
 .fyzivm.muztorg.ru
 .fz.letv.com
+.fz2c.top
 .fz863.com
 .fzb5.laboratoire-giphar.fr
 .fzbymy.com
@@ -46971,6 +46981,7 @@ zzxosget.com
 .id.kbmg.cz
 .id.localsearch.ch
 .id.sputniknews.com
+.id08.top
 .id1.cn
 .id3103.com
 .id5-sync.com
@@ -48933,6 +48944,7 @@ zzxosget.com
 .iwxzizcw.com
 .iwyphlxfuufeos.com
 .iwyuaqs.cn
+.ixbccrp.cn
 .ixcbqp.com
 .ixcgvh.cn
 .ixcris.com
@@ -49567,6 +49579,7 @@ zzxosget.com
 .jiujiinc.top
 .jiujiupk.com
 .jiuku.cc
+.jiuku.pw
 .jiulela.ltd
 .jiulingdl.cn
 .jiumishow.com
@@ -52150,6 +52163,7 @@ zzxosget.com
 .leavilysover.site
 .lebilui.ru
 .lebkeresxa.ml
+.lebkrli.cn
 .leboncoan.fr
 .lebopncoin.fr
 .lebtpm.co-medical.com
@@ -52295,6 +52309,7 @@ zzxosget.com
 .les-experts.com
 .les-oncheres.fr
 .les-toiles-cinema.fr
+.les7andla4.cfd
 .lesanmo.top
 .lesburghmoloki.site
 .lesecchos.fr
@@ -58524,6 +58539,7 @@ zzxosget.com
 .mzcd.xyz
 .mzclass.club
 .mzcsuuuwox.com
+.mzhw.xyz
 .mzjruy.yocoyoco.com
 .mzlscqarnm.com
 .mzokqm.cn
@@ -59021,6 +59037,7 @@ zzxosget.com
 .netbulvar.eu
 .netc.sfr.fr
 .netcatx.com
+.netcentric.biz
 .netclickstats.com
 .netcommunities.com
 .netcore.co.in
@@ -60837,6 +60854,7 @@ zzxosget.com
 .ojwejqeqvxn.xyz
 .ok-app.online
 .ok-ddjsyuming.com
+.ok-qqzzjsyuming.com
 .ok.432kkk.com
 .ok.5.p2l.info
 .ok365.com
@@ -61877,6 +61895,7 @@ zzxosget.com
 .owogldk.top
 .owohvnpbno.com
 .owonal.anibis.ch
+.owoxauky.com
 .owp-hk.americanexpress.com
 .owsvolksk.space
 .owtracking.us-east-1.elasticbeanstalk.com
@@ -64030,6 +64049,7 @@ zzxosget.com
 .pocrd.cc
 .pocrowpush.com
 .pod.xpress.com
+.podcorn.com
 .podfdch.com
 .podhopfit.site
 .podiumpresto.com
@@ -66020,6 +66040,7 @@ zzxosget.com
 .qfbles.elefant.ro
 .qfcdgy.cn
 .qfdn3gyfbs.com
+.qfdyxinaocn.com
 .qfdzba.sport-schuster.de
 .qffvrenbek.com
 .qfgall.cn
@@ -66534,6 +66555,7 @@ zzxosget.com
 .qvylkvlpjwz.com
 .qw2v.changshuohr.net
 .qwa3ldhn9u0t.com
+.qwadakesy.cyou
 .qwe.qrrgv.space
 .qwedcfv.com
 .qweewq2021.online
@@ -77355,6 +77377,7 @@ zzxosget.com
 .tenuate.1.p2l.info
 .teoopx.cn
 .teosredic.com
+.teoviyf.cn
 .teqcdnk.cn
 .tequanma.com
 .terabytemedia.com
@@ -77895,6 +77918,7 @@ zzxosget.com
 .tianjin4.com
 .tianjiunion.cn
 .tiankongzudui.com
+.tianlans.xyz
 .tianlule.cn
 .tianmenshan.top
 .tianmidian.com
@@ -86816,6 +86840,7 @@ zzxosget.com
 .wyhwcgvchpmdf.com
 .wyhzzy.com
 .wyimgydwxcy.com
+.wykw.fun
 .wyliswbimeotllt.xyz
 .wylqafraq7.com
 .wymcloud.love

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-12 02:30:40
+# UPDATED: 2022-09-13 02:33:27
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66263
+# DOMAIN-SUFFIX: 66246
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66374
+# TOTAL: 66357
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -5608,7 +5608,6 @@ www4-static.gog-statics.com
 .5etv.com
 .5ewin.com
 .5fen.com
-.5fou.com
 .5fun.com
 .5fwan.com
 .5gcg.com
@@ -6203,7 +6202,6 @@ www4-static.gog-statics.com
 .71360.com
 .7139.com
 .714.com
-.714.hk
 .715083.com
 .715300.com
 .71668.net
@@ -8774,7 +8772,6 @@ www4-static.gog-statics.com
 .aiyunxiao.com
 .aizaoqi.com
 .aizhan.com
-.aizhanku.com
 .aizhengli.com
 .aizhenrong.com
 .aizhet.com
@@ -10468,7 +10465,6 @@ www4-static.gog-statics.com
 .baituibao.com
 .baiu.com
 .baiud.com
-.baiudu.com
 .baiven.com
 .baiwandz.com
 .baiwang.com
@@ -11985,7 +11981,6 @@ www4-static.gog-statics.com
 .bjwhds.com
 .bjwkzl.com
 .bjwsk.com
-.bjwsyy.com
 .bjwszyxy.com
 .bjwwhc.com
 .bjwxhl.com
@@ -25584,7 +25579,6 @@ www4-static.gog-statics.com
 .gusuwang.com
 .gutianfood.com
 .gutou.com
-.gutouwang.net
 .guwan.com
 .guweimin.com
 .guwenxs.com
@@ -30036,7 +30030,6 @@ www4-static.gog-statics.com
 .idianfa.com
 .idianshijia.com
 .idigi.net
-.idkaiu.com
 .idler-et.com
 .idmchina.net
 .idmzj.com
@@ -30626,6 +30619,7 @@ www4-static.gog-statics.com
 .iminho.me
 .imipy.com
 .imitui.com
+.imixpark.com
 .imjiayin.com
 .imkerwin.com
 .imkevinyang.com
@@ -32032,7 +32026,6 @@ www4-static.gog-statics.com
 .jfinfo.com
 .jfq.com
 .jfrogchina.com
-.jfscd.com
 .jfshare.com
 .jfstatic.com
 .jfuwu.com
@@ -34870,7 +34863,6 @@ www4-static.gog-statics.com
 .kkk5.com
 .kkkd.com
 .kkkkba.com
-.kkkmh.com
 .kkkwww.com
 .kklishi.com
 .kklxj.com
@@ -37430,7 +37422,6 @@ www4-static.gog-statics.com
 .loldytt.org
 .loldytt.tv
 .lolgo.net
-.lolhd.com
 .loli.cd
 .loli.cloud
 .loli.ee
@@ -37601,7 +37592,6 @@ www4-static.gog-statics.com
 .lotut.com
 .loubobooo.com
 .louding.com
-.louishan.com
 .louislivi.com
 .louisvv.com
 .loukee.com
@@ -41691,7 +41681,6 @@ www4-static.gog-statics.com
 .nmzzlhwlkj.com
 .nn.com
 .nn12333.com
-.nn92.com
 .nncc626.com
 .nncj.com
 .nndims.com
@@ -45233,6 +45222,7 @@ www4-static.gog-statics.com
 .qkvop.com
 .qkzj.com
 .ql-cellbank.com
+.ql-msx.com
 .ql18.mobi
 .ql1d.com
 .ql47.com
@@ -50795,7 +50785,6 @@ www4-static.gog-statics.com
 .swaqds.com
 .swarma.net
 .swarma.org
-.swarmcloud.net
 .swatou.com
 .swbbsc.com
 .swchina.org
@@ -56231,7 +56220,6 @@ www4-static.gog-statics.com
 .weixinjiajia.com
 .weixinju.com
 .weixinkd.com
-.weixinmenu.com
 .weixinmuban.com
 .weixinmvp.com
 .weixinpy.com
@@ -57244,6 +57232,7 @@ www4-static.gog-statics.com
 .wo186.tv
 .wo188.win
 .wo1990.com
+.wo1wan.com
 .wo685.com
 .wo81.com
 .woa.com
@@ -58205,7 +58194,6 @@ www4-static.gog-statics.com
 .xatongsheng.net
 .xatvs.com
 .xatyds.com
-.xatyyx.com
 .xatzj.com
 .xauat-hqc.com
 .xaudiopro.com
@@ -58506,7 +58494,6 @@ www4-static.gog-statics.com
 .xgsdk.com
 .xgslb.net
 .xgt2014.com
-.xgv5.com
 .xgwx.net
 .xgxedu.com
 .xgz.cc
@@ -60015,6 +60002,7 @@ www4-static.gog-statics.com
 .xqship.com
 .xqspx.com
 .xqtesting.com
+.xqwggg.com
 .xqwww.com
 .xqymuy.com
 .xrcch.com
@@ -61934,7 +61922,6 @@ www4-static.gog-statics.com
 .yktworld.com
 .yktz.net
 .ykyao.com
-.ykydxh.com
 .ykzq.com
 .ykzr.com
 .yl1001.com
@@ -62091,7 +62078,6 @@ www4-static.gog-statics.com
 .ynshijian.com
 .ynsjg.com
 .ynsqx.com
-.yntc999.com
 .ynteng.com
 .yntsg.com
 .ynwin.com
@@ -62246,7 +62232,6 @@ www4-static.gog-statics.com
 .youboy.com
 .youc.com
 .youcaizhushou.com
-.youcao.cc
 .youcash.com
 .youcha.net
 .youchedi.com
@@ -62737,7 +62722,6 @@ www4-static.gog-statics.com
 .ytoexpress.com
 .ytoglobal.com
 .ytop8.com
-.ytoxl.com
 .ytpp.com
 .ytrenyu.com
 .ytsanchuan.com
@@ -63032,7 +63016,6 @@ www4-static.gog-statics.com
 .yundianjia.com
 .yundianseo.com
 .yundiantech.com
-.yundiao365.com
 .yundns.vip
 .yundongfang.com
 .yundonghao.com
